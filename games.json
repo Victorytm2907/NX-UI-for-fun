@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Game 1",
+        "image": "desktop-1.png",
+        "url": "index.html",
+        "developer": "Dev A",
+        "console": "PSX"
+    },
+    {
+        "title": "Game 2",
+        "image": "game2.png",
+        "url": "game2.html",
+        "developer": "Dev B",
+        "console": "NES"
+    }
+]
